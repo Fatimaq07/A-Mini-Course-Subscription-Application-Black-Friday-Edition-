@@ -27,19 +27,6 @@ A full-stack course subscription platform built with React, TypeScript, Supabase
 - Supabase Edge Functions for subscription logic
 - Row Level Security (RLS) policies
 
-## Test User Credentials
-
-You can create new accounts or use these test credentials:
-
-**Test Account 1:**
-- Email: `demo@learnhub.com`
-- Password: `demo123`
-
-**Test Account 2:**
-- Email: `student@learnhub.com`
-- Password: `student123`
-
-**Note:** Since email confirmation is disabled, you can create any account instantly with any email/password combination (minimum 6 characters for password).
 
 ## Project Structure
 
