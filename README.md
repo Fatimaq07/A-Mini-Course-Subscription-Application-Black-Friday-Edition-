@@ -81,9 +81,15 @@ POST	/auth/signup	Register new user
 POST	/auth/login	Login & return token
 Courses
 Method	Endpoint	Description
+
 GET	/courses	Fetch all courses
 GET	/courses/:id	Fetch course by ID
 Subscriptions
 Method	Endpoint	Description
 POST	/subscribe	Subscribe to free/paid course
 GET	/my-courses	All courses subscribed by user
+
+📸 Screenshots
+<img width="1919" height="873" alt="Screenshot 2025-12-01 201031" src="https://github.com/user-attachments/assets/d547cfee-000c-4004-9fc6-c8f200d99634" />
+<img width="1902" height="870" alt="Screenshot 2025-12-01 201006" src="https://github.com/user-attachments/assets/3149a0c8-014d-47f1-983a-d6bcc4130324" />
+<img width="1919" height="867" alt="Screenshot 2025-12-01 200948" src="https://github.com/user-attachments/assets/88a02f8a-c0c3-4f7a-a09e-0dc582747bd2" />
